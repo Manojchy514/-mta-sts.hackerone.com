@@ -1,1 +1,3 @@
-# -mta-sts.hackerone.com
+# mta-sts.hackerone.com
+
+## Subdomain takeover by manoj
